@@ -29,7 +29,9 @@ The framework follows the Page Object Model (POM) using PageFactory, TestNG, and
 
 ```bash
 cd EntrataAutomationTests
-
+```
+### 2. Run Tests:
+```
 mvn clean test
 ```
 ### 2. Open reports:
