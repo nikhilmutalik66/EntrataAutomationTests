@@ -31,3 +31,8 @@ The framework follows the Page Object Model (POM) using PageFactory, TestNG, and
 cd EntrataAutomationTests
 
 mvn clean test
+```
+### 2. Open reports:
+```
+open reports/ExtentReport.html
+
