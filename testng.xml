@@ -1,0 +1,8 @@
+<suite name="Entrata Website Test Suite" verbose="1">
+    <test name="Entrata UI Tests">
+        <classes>
+            <class name="com.entrata.tests.NavigationTest"/>
+            <class name="com.entrata.tests.TC_EnterFormDetails"/>
+        </classes>
+    </test>
+</suite>
